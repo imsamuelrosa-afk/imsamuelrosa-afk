@@ -1,4 +1,4 @@
-# ¡Hola! Bienvenido a mi perfil 👋
+# ¡Hola! Bienvenido a mi perfil :computer:
 
 Soy estudiante del Bachillerato en Desarrollo de Software en el **Instituto Nacional Profesor Francisco Ventura Zelaya**. Me considero una persona curiosa y estoy **muy ansioso por aprender nuevas herramientas** y tecnologías para seguir creciendo en el mundo de la programación.
 
